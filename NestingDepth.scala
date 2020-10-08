@@ -1,5 +1,5 @@
 import scala.io.StdIn.readLine
-//Solution because that i how google jam ask for it
+//Solution because that is how google jam ask for it
 object Solution {
   //define main with no defined return
   def main(args: Array[String]): Unit = {
